@@ -1,0 +1,14 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macabration - o site mais macabration do mundo</title>
+    <link>https://macabration.com/</link>
+    <description>Recent content on Macabration - o site mais macabration do mundo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    
+        <atom:link href="https://macabration.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss> 
