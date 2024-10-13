@@ -34,12 +34,21 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/albuns/">Álbuns</a><a class="page-link" href="/videos/">Vídeos</a><a class="page-link" href="/fotos/">Fotos</a><a class="page-link" href="/textos/">Textos</a></div>
+        <div class="trigger"><a class="page-link" href="/albuns/">Álbuns</a><a class="page-link" href="/videos/">Vídeos</a><a class="page-link" href="/fotos/">Fotos</a><a class="page-link" href="/letras/">Letras</a><a class="page-link" href="/nois/">Nóis</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home"><p><img src="/assets/mac_01.gif" alt="drawing" width="100%" /></p>
+
+<script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+
+<script async="" src="https://api.countapi.xyz/hit/macabration.com/visits?callback=cb"></script>
+
 
 
   <!--  -->
