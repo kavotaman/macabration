@@ -285,6 +285,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
 /**
  * Links
  */
