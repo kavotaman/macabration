@@ -447,7 +447,6 @@ table td {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #999999;
   border-bottom: 1px solid rgb(63.75, 63.75, 63.75);
   min-height: 55.95px;
   line-height: 54px;
